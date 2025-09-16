@@ -19,7 +19,3 @@ Transforming ideas into code and concepts into systems. Passionate about AI, com
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 
-#
-
-[comment]: <> [instagram]: 
-[comment]: <> [youtube]: 
