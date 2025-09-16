@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🧙🏻‍♂️ Chrinzo
 
-<!--
-**Chrinzo/Chrinzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Alchemist (AI/Code/Design)`**
 
-Here are some ideas to get you started:
+Transforming ideas into code and concepts into systems. Passionate about AI, computer science, and the creative spark that bridges technology with imagination.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   <p align="left">
+      <a href="https://www.linkedin.com/in/christian-anzano-work/">
+    <img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+      
+   </p>
+
+---
+
+### 🧰 Languages and Tools
+
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+
+#
+
+[comment]: <> [instagram]: 
+[comment]: <> [youtube]: 
