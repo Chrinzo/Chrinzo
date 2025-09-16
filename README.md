@@ -1,5 +1,5 @@
 # 🧙🏻‍♂️ Chrinzo
-
+---
 **`Digital Alchemist (AI/Code/Design)`**
 
 Transforming ideas into code and concepts into systems. Passionate about AI, computer science, and the creative spark that bridges technology with imagination.
